@@ -14,7 +14,8 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   color: #fff;
-  background-color: #1d1d1d;
+  background-image: url("img/backk.jpg");
+  background-position: center;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,7 +26,7 @@ body {
 
 /* LAYOUT */
 header {
-  background-color: #1b3f66;
+  background-color: #166ac3;
   border-radius: 8px;
   padding: 20px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
@@ -91,7 +92,7 @@ h1 {
 
 .btn {
   border: none;
-  background-color: #007bff;
+  background-color: #dd419c;
   color: #fff;
   font-size: 2rem;
   padding: 1rem 2rem;
@@ -101,7 +102,8 @@ h1 {
 }
 
 .btn:hover {
-  background-color: #0056b3;
+  color: #000000;
+  background-color: #ffffff;
 }
 
 .message {
