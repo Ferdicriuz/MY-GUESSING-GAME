@@ -45,5 +45,5 @@ document.querySelector(".again").addEventListener("click", function(){
     document.querySelector(".guess").value = "";
     document.querySelector(".score").textContent = score;
     document.querySelector(".number").textContent = "??";
-    document.querySelector("body").style.backgroundImage ='url (("img/backk.jpg"))';
+    document.querySelector("body").style.backgroundColor =" #166ac3";
 })

@@ -14,7 +14,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   color: #fff;
-  background-image: url("img/backk.jpg");
+  background-color: #166ac3;
   background-position: center;
   display: flex;
   flex-direction: column;
